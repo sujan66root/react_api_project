@@ -1,0 +1,33 @@
+.leaflet-container {
+  width: 100%;
+  height: 40vh;
+}
+.parameters {
+  font-size: 15px;
+  margin-top: 20px;
+}
+.parameter {
+  border: 1px solid rgb(85, 130, 172);
+}
+.header {
+  background-color: rgba(44, 182, 216, 0.795);
+  padding: 2px;
+}
+p {
+  margin: 0;
+  padding: 0;
+}
+h5 {
+  margin: 0;
+}
+.container-graph {
+  width: 100px;
+}
+.chart {
+  height: 75px;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: 35vh;
+}
